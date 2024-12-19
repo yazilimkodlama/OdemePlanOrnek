@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\Ahmet\ntp\2024\OdemePlanOrnek\OdemePlanOrnek\bin\Debug\OdemePlanOrnek.exe.config
+C:\Users\student\Desktop\Ahmet\ntp\2024\OdemePlanOrnek\OdemePlanOrnek\bin\Debug\OdemePlanOrnek.exe
+C:\Users\student\Desktop\Ahmet\ntp\2024\OdemePlanOrnek\OdemePlanOrnek\bin\Debug\OdemePlanOrnek.pdb
+C:\Users\student\Desktop\Ahmet\ntp\2024\OdemePlanOrnek\OdemePlanOrnek\obj\Debug\OdemePlanOrnek.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Ahmet\ntp\2024\OdemePlanOrnek\OdemePlanOrnek\obj\Debug\OdemePlanOrnek.Form1.resources
+C:\Users\student\Desktop\Ahmet\ntp\2024\OdemePlanOrnek\OdemePlanOrnek\obj\Debug\OdemePlanOrnek.Properties.Resources.resources
+C:\Users\student\Desktop\Ahmet\ntp\2024\OdemePlanOrnek\OdemePlanOrnek\obj\Debug\OdemePlanOrnek.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Ahmet\ntp\2024\OdemePlanOrnek\OdemePlanOrnek\obj\Debug\OdemePlanOrnek.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Ahmet\ntp\2024\OdemePlanOrnek\OdemePlanOrnek\obj\Debug\OdemePlanOrnek.exe
+C:\Users\student\Desktop\Ahmet\ntp\2024\OdemePlanOrnek\OdemePlanOrnek\obj\Debug\OdemePlanOrnek.pdb
